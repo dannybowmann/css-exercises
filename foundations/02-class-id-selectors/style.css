@@ -7,3 +7,7 @@ font-family: "Verdana"; "DejaVu Sans"; sans-serif;
 color: #3333ff;
 font-size: 36px;
 }
+
+.big {
+font-size: 24px;
+}
