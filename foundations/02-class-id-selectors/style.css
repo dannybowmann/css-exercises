@@ -1,4 +1,9 @@
 .red {
-background-color: ff9999;
+background-color: #ff9999;
 font-family: "Verdana"; "DejaVu Sans"; sans-serif;
+}
+
+#blue {
+color: #3333ff;
+font-size: 36px;
 }
